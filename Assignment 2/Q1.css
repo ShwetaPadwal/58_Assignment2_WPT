@@ -1,0 +1,48 @@
+body{
+    height: auto;
+    width: auto;
+    border: 10cap solid black;
+    padding: 10px;
+    background-color:cornsilk
+}
+#a1{
+    background-color: rgb(241, 151, 166);
+}
+#i1{
+    background-color: gray;
+    margin-right: 900px;
+}
+.c1{
+    
+    font-style: italic;
+}
+h2{
+    background-color: cadetblue;
+    text-decoration: underline;
+}
+.c3{
+    font-style: italic;
+    color: gray;
+    font-size: 22px;
+}
+.c2 img{
+    border:solid;
+    padding: 10px;
+}
+.c4{
+    display: inline;
+}
+.c5 p{
+    font-weight: bold;
+}
+#f1{   
+    border: 1px;
+    background-color: gray;
+}
+#f1 u{
+    word-spacing: 5px;
+}
+#f1 i{
+    color: white;
+    font-weight:600;
+}
